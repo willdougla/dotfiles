@@ -1,0 +1,4 @@
+.cache/
+.local/share/
+*.log
+.DS_Store
