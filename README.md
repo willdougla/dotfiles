@@ -1,12 +1,12 @@
 Dotfiles - BSPWM + Polybar (NixOS)
 
-•Rice pessoal usando:
+• Rice pessoal usando:
 - BSPWM
 - Polybar
 - Alacritty
 - Picom
 - Nord-based colorscheme
 
-•Instalação
+• Instalação
 
 cp -r config/* ~/.config/
